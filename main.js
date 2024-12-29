@@ -1,5 +1,3 @@
-
-
 const form = document.getElementById("carSearchForm");
 var user;
 var budget;
